@@ -1,4 +1,4 @@
-USE todos_db;
+USE bfnj7k524wyslutq;
 
 INSERT INTO todos (todo, isCompleted)
 VALUES ('Run', true),
